@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Materials/M_GridRotation.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Input/Actions/IA_SmoothMove.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Input/Actions/IA_SmoothTurn.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/Materials/Blue.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/Materials/Green.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/Materials/Red.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/Materials/White.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/Materials/Yelllow.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/Materials/Black.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/BP_ConfiguratorGameMode.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/BP_RAC_UI_3D.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/NewDataAsset.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Input/Actions/WidgetInteraction.uasset",
+				"C:/Users/jabas/Documents/Unreal Projects/MyProject2/Content/BP_RAC_UI_World.uasset"
+			]
+		}
+	]
+}
