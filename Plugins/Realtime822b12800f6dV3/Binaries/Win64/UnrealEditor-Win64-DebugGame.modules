@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"RAC_Lite": "UnrealEditor-RAC_Lite-Win64-DebugGame.dll",
+		"RAC_Lite_Editor": "UnrealEditor-RAC_Lite_Editor-Win64-DebugGame.dll"
+	}
+}

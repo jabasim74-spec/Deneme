@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\source\\rac_lite_editor\\private\\rac_lite_editor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\asasi\\documents\\github\\deneme\\intermediate\\build\\win64\\x64\\myproject2editor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\rac_lite_editor\\definitions.rac_lite_editor.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\source\\rac_lite_editor\\public\\rac_lite_editor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\selection.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementlist.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementcounter.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementframework\\uht\\typedelementcounter.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementselectionset.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementinterfacecustomization.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementlistobjectutil.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\interfaces\\typedelementselectioninterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementlistproxy.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementframework\\uht\\typedelementlistproxy.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementruntime\\uht\\typedelementselectioninterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementruntime\\uht\\typedelementselectionset.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\selection.generated.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\source\\rac_lite_editor\\public\\rac_lite_editorstyle.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\source\\rac_lite\\public\\actors\\cpp_staticactor.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\source\\rac_lite\\public\\actors\\cpp_selectableactor.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\source\\rac_lite\\public\\cpp_types.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\intermediate\\build\\win64\\unrealeditor\\inc\\rac_lite\\uht\\cpp_types.generated.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\source\\rac_lite\\public\\core\\cpp_clickinterface.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\intermediate\\build\\win64\\unrealeditor\\inc\\rac_lite\\uht\\cpp_clickinterface.generated.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\intermediate\\build\\win64\\unrealeditor\\inc\\rac_lite\\uht\\cpp_selectableactor.generated.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\intermediate\\build\\win64\\unrealeditor\\inc\\rac_lite\\uht\\cpp_staticactor.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\staticmeshactor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\staticmeshactor.generated.h",
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\source\\rac_lite_editor\\public\\rac_lite_editorcommands.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

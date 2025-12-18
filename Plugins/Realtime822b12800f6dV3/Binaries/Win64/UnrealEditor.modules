@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"RAC_Lite": "UnrealEditor-RAC_Lite.dll",
+		"RAC_Lite_Editor": "UnrealEditor-RAC_Lite_Editor.dll"
+	}
+}

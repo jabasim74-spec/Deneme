@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Realtime Archviz Configurator Lite",
+	"Description": "System for creating interior configurators",
+	"Category": "Archviz",
+	"CreatedBy": "Stanislav Perekupenko",
+	"CreatedByURL": "https://www.linkedin.com/in/spereku/",
+	"DocsURL": "https://docs.google.com/document/d/173HrAwD0SKu7rQ0NHrfcQV9pNiwyvqMkGDJgOb8URHQ/edit?usp=sharing",
+	"MarketplaceURL": "https://www.fab.com/listings/723e5253-d856-40bb-85e6-b38c66882763",
+	"SupportURL": "mailto:stanislavperekupenko@gmail.com",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "RAC_Lite",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "RAC_Lite_Editor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	]
+}

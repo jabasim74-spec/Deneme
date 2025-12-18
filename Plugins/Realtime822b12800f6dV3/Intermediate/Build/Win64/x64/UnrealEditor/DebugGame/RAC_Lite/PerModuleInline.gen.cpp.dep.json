@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\rac_lite\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\asasi\\documents\\github\\deneme\\intermediate\\build\\win64\\x64\\myproject2editor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\asasi\\documents\\github\\deneme\\plugins\\realtime822b12800f6dv3\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\rac_lite\\definitions.rac_lite.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
